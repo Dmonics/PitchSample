@@ -5,13 +5,97 @@
     <projectFile>Intermediate/ProjectFiles/UE4.vcxproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c75240a-b7e3-45f0-a665-b3a0704eafbd" name="Default Changelist" comment="" />
+    <list default="true" id="6c75240a-b7e3-45f0-a665-b3a0704eafbd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Content/PitchSample/Blueprints/AI/AI_Tasks/DecrementPathIndex.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/PitchSample/Blueprints/AI/AI_Tasks/FindPatrolPoint.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/PitchSample/Blueprints/AI/AI_Tasks/FindRandomLocation.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/PitchSample/Blueprints/AI/AI_Tasks/FindWaypointLocation.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/PitchSample/Blueprints/AI/AI_Tasks/IncrementPathIndex.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/PitchSample/Blueprints/AI/AI_Tasks/LoopPath.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/PitchSample/Blueprints/AI/PatrolPath_Master.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/PitchSample/Blueprints/AI/Walking_AI_BB.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/PitchSample/Blueprints/AI/Walking_AI_BT.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/PitchSample/Blueprints/AI/Walking_AI_Controller.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/PitchSample/Blueprints/AI/Walking_Ai_Controller_D.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/PitchSample/Blueprints/AI/Walking_NPC_Base.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/PitchSample/Characters/NPC/NPC_1/Animations/AnimSequences/NPC1_WalkLeft.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/PitchSample/Characters/NPC/NPC_1/Animations/AnimSequences/NPC1_WalkRight.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/PitchSample/Characters/NPC/NPC_1/NPC_1.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/PitchSample/Characters/NPC/NPC_1/NPC_1_AnimBP.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/PitchSample/Characters/NPC/NPC_1/PatrolPath_NPC1.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/PitchSample/Characters/Rosier/Animations/AnimSequences/BackWalkTrans.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/PitchSample/Characters/Rosier/Animations/AnimSequences/BackWalk_Normal_AnimSq.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/PitchSample/Characters/Rosier/Animations/AnimSequences/FrontIdle_Normal_AnimSq.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/PitchSample/Characters/Rosier/Animations/AnimSequences/FrontWalk_Normal_AnimSq.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/PitchSample/Characters/Rosier/Animations/AnimSequences/LeftWalk_Normal_AnimSq.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/PitchSample/Characters/Rosier/Animations/AnimSequences/RightWalk_Normal_AnimSq.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/PitchSample/Characters/Rosier/Animations/AnimSequences/idle.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/PitchSample/Characters/Rosier/Animations/FlipBooks/Normal_Walk/Walk_Back.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/PitchSample/Characters/Rosier/Animations/FlipBooks/Normal_Walk/Walk_Front.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/PitchSample/Characters/Rosier/Animations/FlipBooks/Normal_Walk/Walk_Left.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/PitchSample/Characters/Rosier/Animations/FlipBooks/Normal_Walk/Walk_Right.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/PitchSample/Characters/Rosier/Rosier.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/PitchSample/Mats/Test/Wall_Ex1.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/PitchSample/Mesh/TestMesh/120v2wall_normal.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/PitchSample/Mesh/TestMesh/120walltop_normal.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/PitchSample/Mesh/TestMesh/60v2wall_base.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/PitchSample/Mesh/TestMesh/60walltop_base.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/PitchSample/Mesh/TestMesh/Master_2D_Lit_Inst.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/PitchSample/Mesh/TestMesh/Master_2D_Lit_Inst1.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/PitchSample/Mesh/TestMesh/topwallplane.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/PitchSample/Mesh/TestMesh/wallplane.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/PitchSample/UI/Test/UI_DialogueBox.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/PitchSample/UI/Test/UI_DialogueBox1.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/PitchSample/UI/Test/UI_DialogueBox2.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/PitchSample/UI/Textures/DialogueBox-Block.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/PitchSample/UI/Textures/DialogueBox-TriangleRight.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/PitchSample/UI/Textures/DialogueBox_highlight.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/PitchSample/UI/Textures/Untitled-3.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/PitchSample/Blueprints/InteractionSystem/Actor_Interactible_Master.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PitchSample/Blueprints/InteractionSystem/Actor_Interactible_Master.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/PitchSample/Blueprints/InteractionSystem/BPI_Interact.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PitchSample/Blueprints/InteractionSystem/BPI_Interact.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/PitchSample/Blueprints/InteractionSystem/Materials/Outline_PP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PitchSample/Blueprints/InteractionSystem/Materials/Outline_PP.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/PitchSample/Blueprints/InteractionSystem/Objects/Folder_pickable.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/PitchSample/Blueprints/InteractionSystem/Objects/Pickable_Folder.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/PitchSample/Blueprints/InteractionSystem/Objects/Pickable_master.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PitchSample/Blueprints/InteractionSystem/Objects/Pickable_master.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/PitchSample/Blueprints/InteractionSystem/TestInteract.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/PitchSample/Blueprints/Paper2D_Gamemode.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PitchSample/Blueprints/Paper2D_Gamemode.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/PitchSample/Blueprints/PaperZD/NewRoanoke_GM.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PitchSample/Blueprints/NewRoanoke_GM.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/PitchSample/Blueprints/PaperZD/Rosier.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/PitchSample/Blueprints/PaperZD/Rosier_AnimBP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PitchSample/Characters/Rosier/Rosier_AnimBP.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/PitchSample/Blueprints/Paper_Character.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PitchSample/Blueprints/Paper_Character.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/PitchSample/Characters/Bartender/NPC_Bartender.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PitchSample/Characters/Bartender/NPC_Bartender.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/PitchSample/Characters/Rosier/Textures/Normal_Walk/BackWalkTrans.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/PitchSample/Characters/Rosier/Textures/Normal_Walk/BackWalk_Normal_AnimSq.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/PitchSample/Characters/Rosier/Textures/Normal_Walk/FlipBooks/Forward_To_back_Turn.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PitchSample/Characters/Rosier/Animations/FlipBooks/Forward_To_back_Turn.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/PitchSample/Characters/Rosier/Textures/Normal_Walk/FlipBooks/Idle_Back.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PitchSample/Characters/Rosier/Animations/FlipBooks/Idle/Idle_Back.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/PitchSample/Characters/Rosier/Textures/Normal_Walk/FlipBooks/Idle_Front.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PitchSample/Characters/Rosier/Animations/FlipBooks/Idle/Idle_Front.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/PitchSample/Characters/Rosier/Textures/Normal_Walk/FlipBooks/Idle_Left.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PitchSample/Characters/Rosier/Animations/FlipBooks/Idle/Idle_Left.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/PitchSample/Characters/Rosier/Textures/Normal_Walk/FlipBooks/Idle_Right.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PitchSample/Characters/Rosier/Animations/FlipBooks/Idle/Idle_Right.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/PitchSample/Characters/Rosier/Textures/Normal_Walk/FlipBooks/Walk_Back.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/PitchSample/Characters/Rosier/Textures/Normal_Walk/FlipBooks/Walk_Front.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/PitchSample/Characters/Rosier/Textures/Normal_Walk/FlipBooks/Walk_Left.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/PitchSample/Characters/Rosier/Textures/Normal_Walk/FlipBooks/Walk_Right.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/PitchSample/Characters/Rosier/Textures/Normal_Walk/FrontIdle_Normal_AnimSq.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/PitchSample/Characters/Rosier/Textures/Normal_Walk/FrontWalk_Normal_AnimSq.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/PitchSample/Characters/Rosier/Textures/Normal_Walk/LeftWalk_Normal_AnimSq.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/PitchSample/Characters/Rosier/Textures/Normal_Walk/RightWalk_Normal_AnimSq.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/PitchSample/Maps/PaperZD_Work.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PitchSample/Maps/PaperZD_Work.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/PitchSample/Maps/SamplePitch.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PitchSample/Maps/SamplePitch.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/PitchSample/Maps/Tech_work.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PitchSample/Maps/Tech_work.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/PitchSample/UI/UI_Dialogue.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PitchSample/UI/UI_Dialogue.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/PitchSample/UI/UI_DialogueOption.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PitchSample/UI/Test/UI_DialogueOption.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/BlueprintAssist/NodeSizeCache/F79904FC467E1F42896FFEBEA8A5ED35.json" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/BlueprintAssist/NodeSizeCache/F79904FC467E1F42896FFEBEA8A5ED35.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1nATTuQ8zjTSCYumR27Zvk9VJja" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -245,6 +329,7 @@
       <option name="presentableId" value="Default" />
       <updated>1610831909299</updated>
       <workItem from="1610831941684" duration="728000" />
+      <workItem from="1611413243834" duration="3000" />
     </task>
     <servers />
   </component>
@@ -253,6 +338,17 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
